@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: somepackage
+Version: 0.1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Stephen Smith
+License: MPL-2.0
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.6
+License-File: LICENSE
+
+UNKNOWN
+
